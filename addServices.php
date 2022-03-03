@@ -16,7 +16,7 @@
 
 if(isset($_POST['submit'])){
     $id = $_POST['id'];
-    $name = $_POST['product'];                    // <----  to be checked
+    $name = $_POST['product'];                    
     $description = $_POST['description'];
     $price = $_POST['price'];
     
